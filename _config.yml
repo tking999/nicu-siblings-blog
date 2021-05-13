@@ -9,7 +9,7 @@ touchicon: 'assets/images/apple-touch-icon.png'
 baseurl: /nicu-siblings-blog
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
-mailchimp-list: ''
+mailchimp-list: 'http://eepurl.com/hyrkdj'
 include: ["_pages"]
 permalink: /:title/
 
