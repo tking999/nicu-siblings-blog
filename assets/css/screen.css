@@ -560,7 +560,7 @@ ul.tags li a:hover {
     width: 100%;
     padding: 14px 0;
     z-index: 1;
-    display: none;
+    /* display: none; */
 }
 
 .alertbar form {
