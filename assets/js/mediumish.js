@@ -21,6 +21,7 @@ jQuery(document).ready(function($){
     }
 
     // alertbar later
+    /*
     $(document).scroll(function () {
         var y = $(this).scrollTop();
         if (y > 280) {
@@ -29,7 +30,7 @@ jQuery(document).ready(function($){
             $('.alertbar').fadeOut();
         }
     });
-
+*/
 
     // Smooth on external page
     $(function() {
