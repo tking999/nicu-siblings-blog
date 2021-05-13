@@ -1,10 +1,11 @@
 # Site
-name: "NICU Siblings Blog"
-title: "NICU Siblings Blog"
-brand: "NICU Siblings"
-description: "NICU Siblings Blog"
+name: 'NICU Siblings Blog'
+title: 'NICU Siblings Blog'
+brand: 'NICU Siblings"
+description: 'Stories and posts about how we offer encouragement and support for the siblings of NICU patients.'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
+touchicon: 'assets/images/apple-touch-icon.png'
 baseurl: /nicu-siblings-blog
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
