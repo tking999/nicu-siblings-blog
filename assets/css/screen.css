@@ -552,13 +552,14 @@ ul.tags li a:hover {
 }
 
 .alertbar {
-    box-shadow: 0 -3px 10px 0 rgba(0, 0, 0, .0785);
+    box-shadow: -1px 0 10px 10px rgba(0, 0, 0, .0585);
     /* position: fixed; */
     bottom: 0;
     left: 0;
     background-color: #fff;
     width: 100%;
     padding: 14px 0;
+    margin-bottom: 10px;
     z-index: 1;
     /* display: none; */
 }
