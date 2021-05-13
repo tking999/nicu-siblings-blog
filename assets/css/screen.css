@@ -524,6 +524,15 @@ ul.tags li a:hover {
     margin-bottom: 1.2rem;
 }
 
+button {
+  background: #4154f1;
+  border: 0;
+  padding: 10px 30px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 4px;
+}
+
 .btn.follow {
     border-color: #02B875;
     color: #1C9963;
